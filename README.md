@@ -16,18 +16,18 @@
   <tbody>
   <tr>
       <td align="center">林风社交论坛bbs</td>
-      <td align="center"> <b><a  href="https://gitee.com/virus010101/linfeng-community" target="_blank">开源版本</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a  href="images/qrcode-bbs-wx.png" target="_blank">商业版咨询</a></b></td>
+      <td align="center"> <b><a  href="https://gitee.com/virus010101/linfeng-community" target="_blank">开源版本</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a  href="https://github.com/linfeng-love-1/linfeng-love/blob/master/images/qrcode-bbs-wx.png" target="_blank">商业版咨询</a></b></td>
     </tr>
  <tr>
       <td align="center">林风婚恋交友</td>
-      <td align="center"> <b>此仓库开源</b>&nbsp;&nbsp;&nbsp;&nbsp;<b><a  href="images/qrcode-love-wx.jpg" target="_blank">商业版咨询</a></b></td>
+      <td align="center"> <b>此仓库开源</b>&nbsp;&nbsp;&nbsp;&nbsp;<b><a  href="https://github.com/linfeng-love-1/linfeng-love/blob/master/images/qrcode-love-wx.jpg" target="_blank">商业版咨询</a></b></td>
     </tr>
   </tbody>
 </table>
 
 | 交流群：林风婚恋交友项目群                     | 商业咨询                                                                                       |
 |-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| ![输入图片说明](images/qrcode-love-group.jpg) | ![输入图片说明](images/qrcode-love-wx.jpg) |
+| ![输入图片说明](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/qrcode-love-group.jpg) | ![输入图片说明](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/qrcode-love-wx.jpg) |
 | QQ群：624039130                              | 微信号:18157059657                                                                            |
 
 ### 项目介绍
@@ -42,36 +42,36 @@
 ***SQL文件在群文件中***
 
 #### 系统架构图
-![](images/love-main.png)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/love-main.png)
 
 #### 相关链接
 | 说明      | 详情                                                                                         |
 |---------|--------------------------------------------------------------------------------------------|
 | 官网地址：   | https://net.linfeng.tech/                                                                  |
 | 后台管理地址： | https://love.web.linfeng.tech/                                                             |
-| 微信公众号   | ![输入图片说明](images/linfeng-ma.jpg)     |
-| h5演示    | ![输入图片说明](images/qrcode-love-h5.png) |
+| 微信公众号   | ![输入图片说明](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/linfeng-ma.jpg)     |
+| h5演示    | ![输入图片说明](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/qrcode-love-h5.png) |
 
 
 #### 移动端效果图
 
-![](images/love-1.png)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/love-1.png)
 
-![](images/love-2.png)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/love-2.png)
 
-![](images/love-3.png)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/love-3.png)
 
-![](images/love-4.png)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/love-4.png)
 
 #### 后台管理效果图
 
-![](images/web-1.jpg)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/web-1.jpg)
 
-![](images/web-2.jpg)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/web-2.jpg)
 
-![](images/web-3.jpg)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/web-3.jpg)
 
-![](images/web-4.jpg)
+![](https://github.com/linfeng-love-1/linfeng-love/blob/master/images/web-4.jpg)
 
 
 ### 标准版更新记录
